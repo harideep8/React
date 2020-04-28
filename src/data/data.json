@@ -1,0 +1,51 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Harideep . K",
+                "role" : "Multi Skill Trainer",
+                "email" : "harideep028@gmail.com",
+                "mobile": "+91 8886520096"
+            },
+            "skillset":[
+            	{
+            		"pro":" Program Languages --> C,Data Structures,Python, ",
+            		"fram":"Framworks --> Django ",
+            		"os":"Operating Systems --> Linux,Windows",
+            		"web":"Web Technologies --> HTML5, CSS3,Bootstrap4"
+            	}
+            ],
+            "summary":[
+            	{
+            		"exp":"Having 4+ years of experience in training students in engineering colleges throughout Andhra Pradesh on various technologies Trained approximately 3000 students so far in short term & long term training programs Good in technical mentoring, code reviews to deliver quality output Involved in knowledge sharing and knowledge transfer to the new members of the team & Preparation of knowledge transfer documents Participated in trainings offered in order to increase technical skills, Got consistent & good feedback from every training program."
+            	}
+            ],
+
+            "certifications":[
+				{
+					"python":"Python for Everybody",
+					"university":"Michigan university"
+				},
+				{
+					"python":"Google IT Automation",
+					"Company":"Google"
+				}
+			],
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "EVM Engineering College"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"Narayana Junior College"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Vivekananda High School"
+                }
+            ]
+        }
+        
+    ]
+}
